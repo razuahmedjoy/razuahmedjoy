@@ -17,6 +17,8 @@
  
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=razuahmedjoy&theme=react-dark)](https://github.com/razuahmedjoy/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=razuahmedjoy&theme=dracula)](https://github.com/razuahmedjoy/github-readme-activity-graph)
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razuahmedjoy&theme=dark&layout=compact&align=right&width=40%)](https://github.com/razuahmedjoy/github-readme-stats)
