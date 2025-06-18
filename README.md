@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5616AQE9_dr5HTNfyA/profile-displaybackgroundimage-shrink_350_1400/B56ZXJD4FLGcAY-/0/1742834992523?e=1748476800&v=beta&t=uomDWiQ4Yo8UOy2M9Vh8T3f94_BoXdT5WPLmikPVcYU" alt="razuahmedjoy" /> </p>
+<p align="left"> <img src="./razuahmedjoy_cover.png" alt="razuahmedjoy" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Razu Ahmed Joy</h1>
